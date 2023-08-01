@@ -1,0 +1,10 @@
+Станислав, приветствую!
+
+Домашнее задание к семинару 03.
+
+Ссылка на гитхаб:
+https://github.com/Valinetsky/OOP_Seminars/tree/main/Seminar01/VendingMachine
+
+
+
+Буду рад комментариям и обратной связи. Спасибо
